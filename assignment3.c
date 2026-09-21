@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define MAX 100   /* largest array merge sort can handle */
+#define MAX 100 
 
 void swap(int *a, int *b) {
     int temp = *a;
